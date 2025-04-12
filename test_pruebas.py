@@ -79,6 +79,8 @@ class SauceDemoTests(unittest.TestCase):
             By.XPATH, "//span[@class='title' and text()='Checkout: Your Information']"))).text
 
         self.assertEqual("CHECKOUT: YOUR INFORMATION", info_title.strip().upper())
+         
+#Kelyn mmg
 
 
 
