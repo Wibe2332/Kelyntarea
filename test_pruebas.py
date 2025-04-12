@@ -80,7 +80,7 @@ class SauceDemoTests(unittest.TestCase):
 
         self.assertEqual("CHECKOUT: YOUR INFORMATION", info_title.strip().upper())
          
-#Kelyn mmg
+
 
 
 
